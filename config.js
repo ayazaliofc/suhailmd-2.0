@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://chat.whatsapp.com/HIcgfURfAZiKS8AOWC
 global.gurl  =process.env.GURL  || "https://chat.whatsapp.com/HIcgfURfAZiKS8AOWCSu4z";
 global.website=process.env.GURL || "https://chat.whatsapp.com/HIcgfURfAZiKS8AOWCSu4z" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://i.ibb.co/TgwRyHR/Ephoto360-com-166de101e03cd7.jpg" || "https://i.ibb.co/bH1kbX0/a4c0b1af253197d4837ff6760d5b81c0.jpg" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "🪻" 
+global.caption = process.env.CAPTION || global.caption || "*ᴊᴏɪɴ* `https://chat.whatsapp.com/HIcgfURfAZiKS8AOWCSu4z`" 
 
 
 global.devs = "" // Developer Contact
